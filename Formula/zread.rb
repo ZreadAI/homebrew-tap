@@ -8,7 +8,7 @@
 #   50b317fe5a695108ef192adac5f3db558555e56ef9b1411f6dd2ab0bb552290c  - SHA-256 of zread-linux-x86_64
 #   77d68171b7461535208db9cfc776bacfb3a69924919547b8eea64c94dad1609d  - SHA-256 of zread-linux-aarch64
 
-class ZreadCli < Formula
+class Zread < Formula
   desc "CLI tool for generating documentation from code"
   homepage "https://zread.ai"
   version "0.1.0"
